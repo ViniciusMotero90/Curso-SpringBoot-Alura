@@ -1,0 +1,32 @@
+package med.voll.api.medico;
+
+public enum Especialidade {
+    Anestesiologia,
+    Angiologia,
+    Cardiologia,
+    Cirurgia_Cardiovascular,
+    Cirurgia_da_Mao,
+    Cirurgia_de_cabeca_e_pescoco,
+    Cirurgia_do_Aparelho_Digestivo,
+    Cirurgia_Geral,
+    Cirurgia_Pediatrica,
+    Cirurgia_Plastica,
+    Cirurgia_Toracica,
+    Cirurgia_Vascular,
+    Clinica_Medica,
+    Coloproctologia,
+    Dermatologia,
+    Endocrinologia,
+    Endoscopia,
+    Gastroenterologia,
+    Genetica_medica,
+    Geriatria,
+    Ginecologia,
+    Obstetricia,
+    oftalmologista,
+    Hematologia,
+    Hemoterapia,
+    Homeopatia,
+    Infectologia,
+    Imunologia;
+}
